@@ -8,11 +8,13 @@ He llegado hasta el ejercicio 5 de las funciones, ahí se va engranando, y lo qu
 
 IMPORTANTE: Saber diferenciar lista / diccionario / lista de diccionarios / ... para no mezclar los formatos de llamada de cada valor / variable / key-value....
 
-Terminadas las funciones.
+Terminadas las funciones. He comprobado que se pueden utilizar funciones anidadas...
 
 Vamos a por el bonus....
 
-Esto de querer jugar la final antes de pelotear... es mi Karma.
+Esto de querer jugar el partido (...y la final) antes de pelotear... es mi Karma.
+
+Alaaa con calma y práctica he seguido adelante y el bonus me parece más "fácil" que los primeros ejercicios.
 
 Bibliografía: Lecciones y Ejercicios en clase y pair. Uso de Chat Gpt.
 Y por supuesto Yanelis e Isabel. GRACIAS
