@@ -8,4 +8,11 @@ He llegado hasta el ejercicio 5 de las funciones, ahí se va engranando, y lo qu
 
 IMPORTANTE: Saber diferenciar lista / diccionario / lista de diccionarios / ... para no mezclar los formatos de llamada de cada valor / variable / key-value....
 
-Bibliografía: Lecciones y Ejercicios en clase y pair. Uso de Chat Gpt
+Terminadas las funciones.
+
+Vamos a por el bonus....
+
+Esto de querer jugar la final antes de pelotear... es mi Karma.
+
+Bibliografía: Lecciones y Ejercicios en clase y pair. Uso de Chat Gpt.
+Y por supuesto Yanelis e Isabel. GRACIAS
