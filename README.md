@@ -16,5 +16,9 @@ Esto de querer jugar el partido (...y la final) antes de pelotear... es mi Karma
 
 Alaaa con calma y práctica he seguido adelante y el bonus me parece más "fácil" que los primeros ejercicios.
 
+Bueno, el bonus 4 ha sido de darle y darle vueltas, consular Gpt para llamar a la def make_purchase que estaba hecha en el ejercicio... la he puesto pero no la tengo clara.... 
+
+Están concatenados los distintos ejercicios y si uno se te cruza... sigo aprendiendo como llamar, incluir una función en otra....
+
 Bibliografía: Lecciones y Ejercicios en clase y pair. Uso de Chat Gpt.
 Y por supuesto Yanelis e Isabel. GRACIAS
