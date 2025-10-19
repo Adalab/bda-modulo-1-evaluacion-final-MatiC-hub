@@ -20,5 +20,10 @@ Bueno, el bonus 4 ha sido de darle y darle vueltas, consular Gpt para llamar a l
 
 Están concatenados los distintos ejercicios y si uno se te cruza... sigo aprendiendo como llamar, incluir una función en otra....
 
+En los bonus el ejercicio 4 me da fallo y no accede al cliente y ya no he podido comprobarlo, el 5 y el 6 están concatenados... no he seguido comprobando. Los he ido pensando y planteando y he pedido ayuda a Chat Gpto, hay cosas de las que plantea que no las comprendo completamente, los he terminado pero para revisarlos y que todas se ensamblen.
+
+Para el superbonus falta un paso más, lo seguiré dando.
+
+
 Bibliografía: Lecciones y Ejercicios en clase y pair. Uso de Chat Gpt.
 Y por supuesto Yanelis e Isabel. GRACIAS
